@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "CryptRaider",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\SteamLibrary\\UE_5.2"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"xlocale": "cpp",
+			"__locale": "cpp",
+			"*.rh": "cpp",
+			"valarray": "cpp",
+			"chrono": "cpp",
+			"codecvt": "cpp",
+			"*.ipp": "cpp",
+			"__config": "cpp",
+			"variant": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
